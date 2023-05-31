@@ -1,0 +1,12 @@
+name = "tasks"
+main = "./build/worker.mjs"
+compatibility_date = "2023-01-09"
+
+[build]
+command = "make build"
+
+[[ d1_databases ]]
+binding = "taskDB" # i.e. available in your Worker on env.DB
+database_name = "tasks"
+database_id = "7624d85e-5df8-4a1e-a347-7a0f17ffd104"
+preview_database_id = "b1ec75cf-df8a-4dcf-81e7-b851a74d9d79"
