@@ -1,4 +1,5 @@
 # tasks
+Wow this is such good code 🤔
 
 * I'm going to eventually have my public tasks use this repo, for now it's just code.
 * This is powered by cloudflare workers and the d1 database(uses sqlite).
